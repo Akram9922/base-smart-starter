@@ -1,0 +1,5 @@
+{
+  "name": "Base Smart Starter",
+  "description": "A robust, build-ready Base starter application featuring Wallet connection, Smart Contract interactions, and an AI-powered Solidity assistant using Gemini.",
+  "requestFramePermissions": []
+}
